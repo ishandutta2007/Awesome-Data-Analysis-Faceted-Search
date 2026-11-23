@@ -1,6 +1,6 @@
 # Awesome-Data-Analysis-Faceted-Search
 
-# Top Data Analysis & Faceted Search Ecosystem
+## Top Data Analysis & Faceted Search Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Faceted Navigation, Aggregation Engines & Self-Hosted Search Analytics*  
